@@ -4,7 +4,7 @@ TipCalculatorW is a tip calculator PHP page.
 
 Submitted by: Chi Hon Law
 
-Time spent: 1 hour spent in total
+Time spent: 2 hours spent in total
 
 ## User Stories
 
@@ -17,22 +17,23 @@ The following **required** functionality is complete:
 * [X] Submitted form values are retained when errors or results are shown.
 
 The following **optional** features are implemented:
-* [ ] Add support for custom tip percentage
-* [ ] Add support for splitting the tip and total
+* [X] Add support for custom tip percentage
+* [X] Add support for splitting the tip and total
 
 The following **additional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the functionality!
+* [X] Add support for custom tax percentage
+* [X] Add support for tipping before or after tax
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/Am9Ojpq.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/Qp0CIMv.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
 
-This is my first offical PHP program. It took me a while to see how to run the php code.
+This is my first PHP program. It took me a while to see how to run the php code. I don't know anything about design, so it is pretty "clean".
 
 ## License
 
